@@ -1,8 +1,8 @@
 # DATA-STRUCTURE-ASSIGNMENT-LAB
 
-# Name: Deepak Reddy 
+# Name: K.MANJUNATH
 
-# Roll Number: CDS/2025/1055
+# Roll Number: CDS/2025/1086
 
 # Course Name: DSA
 
