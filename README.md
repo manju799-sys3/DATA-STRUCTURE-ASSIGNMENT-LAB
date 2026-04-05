@@ -1,9 +1,10 @@
 # DATA-STRUCTURE-ASSIGNMENT-LAB
 
-# Name: K.MANJUNATH
+ Name: K.MANJUNATH
 
-# Roll Number: CDS/2025/1086
+ Roll Number: CDS/2025/1086
 
-# Course Name: DSA
+ Course Name: DSA
 
-# Assignment Description: This repository contains all C program files for the Data Structure assignment lab.
+ Assignment Description: This repository contains all C program files for the Data Structure assignment lab.
+
